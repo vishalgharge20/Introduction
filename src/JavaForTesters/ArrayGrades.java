@@ -35,7 +35,6 @@ public class ArrayGrades {
     }
 
 
-
     public static void marks(){
         for(int i =0; i<grades.length;i++){
             System.out.println("Enter Grade for Subject: "+(i+1));
